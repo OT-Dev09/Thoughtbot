@@ -1,4 +1,11 @@
+#Bigdiv {
+    margin-top: 10%;
+    margin-right: 25%;
+}
+
+
 body {
+    text-align: justify;
     background-color: rgba(50, 0, 0, 1);
     /* text-align: center; */
 }
@@ -82,6 +89,9 @@ div h1, div p {
     margin: 0%;
 }
 #divtag{
+    /* margin-top: 15%; */
+    width: 100%;
+    height: 500%;
     color: white;
     text-align: justify;
     padding-left: 30%;
@@ -93,6 +103,7 @@ div h1, div p {
 }
 #divtag2 {
     margin-left: 30%;
+    padding-right:  10px;
 }
 
 div button {
@@ -101,11 +112,32 @@ div button {
 }
 
 #Yellowbutton {
-    border: 2px solid black;
+    border: 1px solid white;
     background-color: yellow;
+    padding: 5px 5px;
 }
 
 .Yellowbutton {
+    border: 1px solid white;
     background-color: rgba(50, 0, 0, 1);
+    color: red;
+    padding: 5px 5px;
+}
+
+.Yellowbutton:hover {
+    background-color: rgba(245, 222, 179, 1);
+}
+
+.diva:hover {
+
+    background-color: rgba(245, 222, 179, 1);
+}
+
+#h2{
     color: white;
+    margin-left: 22.5%;
+}
+
+#div2p {
+    /* margin-top: -3%; */
 }
