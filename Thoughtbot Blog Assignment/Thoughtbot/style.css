@@ -4,6 +4,18 @@
 }
 
 
+.sticky-nav {
+    padding-left: 8px;
+    margin-left: -1%;
+    padding-top: 10px;
+    width: 140%;
+    height: 55px;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    background-color: rgba(50, 0, 0, 1);
+}
+
 body {
     text-align: justify;
     background-color: rgba(50, 0, 0, 1);
@@ -11,12 +23,17 @@ body {
 }
 
 header {
-    margin-top: -1%;
+    margin-top: 5%;
 }
 
 nav h1 {
     display: inline;
     padding-left: 17px;
+}
+
+.h1pa:hover {
+    text-decoration: none;
+    background-color: rgba(50, 0, 0, 1);
 }
 
 .h1select:hover {
@@ -91,7 +108,7 @@ div h1, div p {
 #divtag{
     /* margin-top: 15%; */
     width: 100%;
-    height: 500%;
+    /* height: 500%; */
     color: white;
     text-align: justify;
     padding-left: 30%;
