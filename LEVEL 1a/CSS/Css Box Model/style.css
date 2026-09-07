@@ -1,0 +1,12 @@
+.para {
+    border: 2px solid green;
+    padding: 100px 50px 100px 200px;
+    margin: -1% 0% 1% -1%%;
+}
+.testing {
+    border: 2px solid greenyellow;
+    height: 100px;
+    /* background-color: rgba(0, 100, 50, .1); */
+    background-color: #b3d46c;
+    background-color: rgb(red, green, blue);
+}

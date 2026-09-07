@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-parent {
+    border: 2px solid #f00;
+    height: 500px;
+    display: flex;
+    margin: 20px 130px;
+    padding: 3px 3px;
+}
+
+.flex-child:nth-child(1){
+    border: 2px solid purple;
+    width: 50%;
+    margin-right: 2px;
+}
+.flex-child:nth-child(2){
+    border: 2px solid green;
+    width: 50%;
+}
+
+
+
+/* }
+.flex-child {
+    border: 2px solid #3d0;
+    height: 300px;
+    width: 300px;
+    margin-top: 5%;
+    margin-left: 20px;
+}
+
+.flex-child2 {
+    border: 2px solid #719;
+    height: 300px;
+    width: 300px;
+    margin-top: 5%;
+    margin-right: 20px;
+} */

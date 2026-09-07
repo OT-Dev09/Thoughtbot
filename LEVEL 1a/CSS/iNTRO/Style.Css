@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+div {
+    background-color: blue;
+}
+
+p {
+    padding: 10% 25%;
+
+}
+.div1 {
+    background-color: green;
+}
+.div2 {
+    background-color: purple;
+}
+
+#sec1 {
+    background-color: gold;
+}
+#sec2 {
+    background-color: silver;
+}

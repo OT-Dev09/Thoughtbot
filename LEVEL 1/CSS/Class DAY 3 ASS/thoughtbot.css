@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.thoughtbot{
+    color: white;
+}
+.nav{
+    text-decoration: none;
+    display: flex;
+
+justify-content:end;
+margin-top: -48px;
+}
+.link{
+    border: 2px solid;
+    border-radius: 20px;
+    text-decoration: none;
+    justify-content: space-around;
+    color: white;
+}
+.Bootstrap{
+    text-decoration: none;
+    font-size: 30.688px
+}
+.duck{
+    color: white;
+}
+.claude{
+    color: white;
+}
+.LLM{
+    color: white;
+}
+.bike{
+    color: white;
+}
+.budget{
+    color: white;
+}
+.Lovable{
+color: white;
+}
+.shed{
+    color: white;
+}

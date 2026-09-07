@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Betania+Patmos&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+
+
+body {
+    background-color: black;
+    padding: 10% 25%;
+}
+
+p:hover {
+    color: chartreuse;
+}
+.para {
+    color: red;
+text-align: center;
+text-decoration:1px solid line-through black;
+text-shadow: -2px 2px 1px rgb(0, 70, 0) ;
+font-size: 1.5rem;
+font-family: "Lobster Two", sans-serif;
+
+}

@@ -1,0 +1,17 @@
+p:hover {
+    color: green;
+}
+p::first-letter{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+/* p::first-line{
+    color: blue;
+} */
+#button:hover {
+    background-color: purple;
+}
+#button {
+    border-radius: 10px;
+}
